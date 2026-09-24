@@ -82,3 +82,4 @@ localhost:~# ./check_comments hello.c
 localhost:~# ./check_comments hello.js
 localhost:~# ./check_comments bench.py
 ```
+7
